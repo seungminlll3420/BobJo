@@ -6,17 +6,7 @@ import 'package:get/state_manager.dart';
 
 class HomeController extends GetxController {
   final TextEditingController editingController = TextEditingController();
-  final RxList<String> group = [
-    "진석",
-    "저스틴",
-    "태욱",
-    "예은",
-    "현",
-    "종현",
-    "규하",
-    "세림",
-    "승민",
-  ].obs;
+  final RxList<String> group = [].obs;
   final RxList<String> riceGroupA = <String>[].obs;
   final RxList<String> riceGroupB = <String>[].obs;
   List<String> groupX = <String>[];
