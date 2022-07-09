@@ -1,16 +1,10 @@
 # rice_group
 
-A new Flutter project.
+밥조 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+회사 인원이 늘어나 한번에 점심을 먹으러 가기 어려워졌다.
+그래서 밥 조를 편하게 나누고자 만들어봄 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+home_controller 안에 group 에 기본 인원을 세팅해서 사용히면됨.
