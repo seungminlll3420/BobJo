@@ -8,3 +8,7 @@
 그래서 밥 조를 편하게 나누고자 만들어봄 
 
 home_controller 안에 group 에 기본 인원을 세팅해서 사용히면됨.
+
+
+# Tech
+Get
